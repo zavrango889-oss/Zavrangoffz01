@@ -1,0 +1,6 @@
+{
+  "name": "ZAVRANGOFFZ",
+  "description": "High-performance gaming utility for Samsung Galaxy M15 5G with one-tap Gaming Mode, DND toggle, real-time RAM and temperature monitoring, and Game Booster & Free Fire MAX integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

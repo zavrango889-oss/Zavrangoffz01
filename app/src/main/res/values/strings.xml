@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZAVRANGOFFZ</string>
+    <string name="gaming_mode_title">GAMING MODE</string>
+    <string name="gaming_mode_active">GAMING MODE ACTIVE</string>
+    <string name="gaming_mode_standby">GAMING MODE STANDBY</string>
+    <string name="target_device_label">Samsung Galaxy M15 5G</string>
+    <string name="one_ui_label">One UI 8.5 • Android 16</string>
+    <string name="dnd_permission_required">DND Permission Required</string>
+    <string name="dnd_permission_desc">Grant Do Not Disturb access so incoming calls and alert popups don\'t interrupt your gaming sessions.</string>
+    <string name="grant_permission">Grant Access</string>
+    <string name="free_fire_max">Free Fire MAX</string>
+    <string name="samsung_game_booster">Samsung Game Booster</string>
+    <string name="ram_usage">RAM Usage</string>
+    <string name="device_temp">Device Temperature</string>
+</resources>
